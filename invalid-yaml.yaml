@@ -1,4 +1,5 @@
-  hello:
-              dfdflkdlfkdl
-              awful-code-here
-- terrible yaml
+---
+hello:
+  - dfdflkdlfkdl
+  - awful-code-here
+  - terrible yaml
